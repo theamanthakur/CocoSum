@@ -1,0 +1,3 @@
+rootProject.name = "UDP Data"
+include ':app'
+include ':coco'
