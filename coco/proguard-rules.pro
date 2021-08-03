@@ -19,3 +19,11 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+-obfuscationdictionary "C:\Users\user\dic.txt"
+-classobfuscationdictionary "C:\Users\user\dic.txt"
+-packageobfuscationdictionary "C:\Users\user\dic.txt"
+
+-mergeinterfacesaggressively
+-overloadaggressively
+-repackageclasses "com.ttl.udpdata"
